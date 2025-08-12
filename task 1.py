@@ -1,5 +1,4 @@
 # ===== Task 1: Data Pipeline Development =====
-# Author: Dinesh
 
 import pandas as pd
 import os
